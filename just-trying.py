@@ -1,3 +1,8 @@
-adding line1
-addng line 2
-now adding this only in local
+def func0():
+    print("0")
+
+def func1():
+    print("1")
+
+def func2():
+    print("2")
